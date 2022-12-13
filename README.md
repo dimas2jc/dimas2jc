@@ -24,8 +24,8 @@
 ![AngularJS](https://img.shields.io/badge/-AngularJS-%23E44D27?style=flat-square&logo=angularjs)
 ![AngularJS](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel)
 
-![MySQL](https://img.shields.io/badge/-MySQL-%23282C34?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23282C34?style=flat-square&logo=prostgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-%23E44D27?style=flat-square&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%231572B6?style=flat-square&logo=prostgre)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
