@@ -13,9 +13,9 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![PHP](https://img.shields.io/badge/-PHP-%23E44D27?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&logo=php&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=python&logoColor=ffffff)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
