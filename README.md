@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@dimas2jc-%23181717?style=flat-square&logo=github)](https://github.com/dimas2jc)
 [![](https://img.shields.io/badge/-@dimas2jc-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/dimas2jc)
 [![](https://img.shields.io/badge/-@dimasihsan-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dimas-ihsan-almahdi-4b1b38209)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://dimasihsan.com)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=dimasihsan.com&url=https%3A%2F%2Fxlbd.me)](https://dimasihsan.com)
 
 𝑰 ❤️ _Website_ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
