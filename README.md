@@ -19,13 +19,17 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%2300C7B7?style=flat-square&logo=vuedotjs&logoColor=ffffff)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-%23E44D27?style=flat-square&logo=angularjs)
-![AngularJS](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%23E44D27?style=flat-square&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%231572B6?style=flat-square&logo=prostgre)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
